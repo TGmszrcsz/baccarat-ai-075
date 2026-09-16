@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：界面文档
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 074 篇 - 百家乐Ai预测分析工具：图片直链与替代文字分别承担什么作用](https://github.com/TGmszrcsz/baccarat-ai-074) ｜ [下一篇：第 076 篇 - 百家乐Ai预测分析工具：折叠内容应该承载补充信息而非关键条件](https://github.com/TGmszrcsz/baccarat-ai-076)
+
+<!-- article-chain:end -->
+
 入口只放在文章底部，长文读者难以再次找到。本篇围绕“系统入口按钮如何兼顾醒目与阅读节奏”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
